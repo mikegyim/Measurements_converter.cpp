@@ -526,7 +526,7 @@ SetConsoleTextAttribute(hcon, color);
     area r;
     temperature t;
     int x,y;
-    textColor(10);
+    textColor(80);
 
 
 
