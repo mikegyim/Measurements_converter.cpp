@@ -1,3 +1,16 @@
+/*
+This program converts the various  basic unit measurements in 
+  1: Frequency
+  2: Energy
+  3: Length
+  4: Temparature
+  5: Weight
+  6: Area
+  7: Volume
+
+*/
+
+
 #include<iostream>
 #include<string>
 #include<stdlib.h>
